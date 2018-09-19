@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: Jedd Highett
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Student
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://www.google.co.uk/imgres?imgurl=https%3A%2F%2Finfoprive.com%2Fwp-content%2Fuploads%2F2014%2F11%2Fbusiness-man-avatar.png&imgrefurl=https%3A%2F%2Finfoprive.com%2Fabout-us%2F&docid=Y8SmkPIUdHVCNM&tbnid=i5ROje9GAqgp9M%3A&vet=10ahUKEwiw6-Hkg8fdAhUBI8AKHYYzDXsQMwjXAShFMEU..i&w=800&h=800&bih=1295&biw=2560&q=man%20avatars&ved=0ahUKEwiw6-Hkg8fdAhUBI8AKHYYzDXsQMwjXAShFMEU&iact=mrc&uact=8
 
 #
 # Flags below are optional
